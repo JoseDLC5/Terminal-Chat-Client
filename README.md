@@ -4,9 +4,9 @@ A simple terminal chat client and chat server.
 Chat server written by Brian S. Borowski.
 
 ## Usage 
-./chatclient <server IP> <port>
+./chatclient serverIP port
   
-./chatserver <port number>
+./chatserver portNumber
   
 Both the server and client should be made using the given makefiles
   
